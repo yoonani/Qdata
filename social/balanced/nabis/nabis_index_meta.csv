@@ -1,0 +1,37 @@
+gubun,bumun,index_name,index_vars
+객관지표,안전,119안전센터 1개당 담당주민수,safety_center_serve
+객관지표,환경,1㎢당 대기오염물질배출량,pollution_emission
+객관지표,보건·복지,65세이상 1인가구 비율,aged_single_ratio
+객관지표,안전,경찰서 접근성,police_station_acb
+객관지표,교통,고속·고속화철도 접근성,high_trans_acb
+객관지표,교통,고속도로 IC접근성,high_ic_acb
+객관지표,문화·여가,공공체육시설 서비스권역 내 인구비율,sports_fac_popratio
+객관지표,문화·여가,공연문화시설 서비스권역 내 인구비율,perf_fac_popratio
+객관지표,보건·복지,노인여가복지시설 서비스권역 내 노인인구 비율,aged_service_popratio
+객관지표,주거,노후주택비율,old_house_ratio
+객관지표,환경,녹지율,green_space_rate
+객관지표,교통,도로포장율,road_pavement_rate
+객관지표,문화·여가,도서관 서비스권역 내 인구비율,library_service_popratio
+객관지표,보건·복지,병원 서비스권역 내 인구 비율,hospital_service_popratio
+객관지표,주거,빈집비율,vacant_house_ratio
+객관지표,보건·복지,사회복지 및 보건 분야 지출비중,wg_ph_spentratio
+객관지표,주거,상수도보급률,water_supply_rate
+객관지표,산업·일자리,상용근로자 비중,cworks_pctg
+객관지표,환경,생활공원 서비스권역 내 인구 비율,living_park_popratio
+객관지표,안전,소방서 접근성,firestation_acb
+객관지표,교육,어린이집 서비스권역내 영유아인구 비율,toddlers_care_popratio
+핵심지표,인구,연평균 인구증감률,population_growth_rate
+객관지표,교육,유아(0-5세)천명당 보육시설수,childecare_per_infant_number
+객관지표,보건·복지,응급의료시설 서비스권역 내 인구비율,emergency_fac_popratio
+객관지표,보건·복지,인구 십만명당 사회복지시설수,socialwelfare_fac_per_hndrdth_number
+객관지표,환경,인구 천명당 도시공원면적,park_per_thousand_area
+객관지표,보건·복지,인구 천명당 의료기관병상수,beds_peer_thousand_number
+객관지표,문화·여가,인구십만명당 문화기반시설수,cultural_infra_per_hndrdth_number
+핵심지표,경제,재정자립도 3개년 평균,fin_indep_3year_mean
+객관지표,교통,주차장 서비스권역(0.75Km) 내 인구비율,parking_popratio
+객관지표,산업·일자리,지식기반산업집적도 3개년 평균,kb_industry_3year_mean
+객관지표,교육,초등학교 서비스권역 내 학령인구 비율,elem_school_popratio
+객관지표,산업·일자리,최근 3개년(2018~2020) 사업체수 증감률,no_bsns_3year_growth_rate
+객관지표,산업·일자리,최근 3개년 종사자수 증감률,no_emp_3year_growth_rate
+객관지표,주거,하수도보급률,sewer_coverage_rate
+객관지표,교육,학령인구천명당 학교수(초중고),schoools_per_thousand_number
